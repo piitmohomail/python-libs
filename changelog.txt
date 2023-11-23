@@ -8,3 +8,4 @@ python-libs: Update changelog 2023-11-20
 python-libs: Update changelog 2023-11-21
 python-libs: Update changelog 2023-11-22
 python-libs: Update changelog 2023-11-23
+python-libs: Update changelog 2023-11-24
