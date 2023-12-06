@@ -21,3 +21,4 @@ python-libs: Update changelog 2023-12-03
 python-libs: Update changelog 2023-12-04
 python-libs: Update changelog 2023-12-05
 python-libs: Update changelog 2023-12-06
+python-libs: Update changelog 2023-12-07
