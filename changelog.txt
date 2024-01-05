@@ -51,3 +51,4 @@ python-libs: Update changelog 2024-01-02
 python-libs: Update changelog 2024-01-03
 python-libs: Update changelog 2024-01-04
 python-libs: Update changelog 2024-01-05
+python-libs: Update changelog 2024-01-06
